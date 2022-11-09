@@ -1,0 +1,7 @@
+.containerMovie{
+    border: 2px solid black;
+    
+    width: fit-content;
+
+    margin: 40px auto;
+}
